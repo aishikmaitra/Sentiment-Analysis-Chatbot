@@ -1,0 +1,6 @@
+*.h5
+sentiment_yelp_model/tf_model.h5
+chatbot/
+__pycache__/
+*.pyc
+*.pyo
